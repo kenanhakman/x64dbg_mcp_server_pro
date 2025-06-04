@@ -48,27 +48,6 @@ This tool allows users to remotely control an x64dbg session, inspect memory, se
 ## 🚀 Getting Started
 
 ### 1. Clone this repo
-Unzip it
-put folder /<your_username/>
-configure roocode or cline .json file in vscode
-{
-  "mcpServers": {
-    "x64dbg": {
-      "disabled": false,
-      "transportType": "stdio",
-      "command": "python",
-      "args": [
-        "C:\\Users\\<your_username>\\x64dbg_MCP_server_pro\\x64dbg_mcp_server_pro.py",
-        "--x64dbg-server",
-        "http://127.0.0.1:8888/",
-        "--transport",
-        "stdio"
-      ],
-      "autoApprove": [
-      ]
-    }
-  }
-}
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/x64dbg_mcp_server_pro.git
