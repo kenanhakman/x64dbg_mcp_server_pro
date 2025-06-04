@@ -48,8 +48,12 @@ This tool allows users to remotely control an x64dbg session, inspect memory, se
 ## 🚀 Getting Started
 
 ### 1. Clone this repo
+---
 
+## ⚙️ Configuration Instructions (VSCode + RooCode / CLine)
 
+1. **Unzip** the archive you downloaded.
+2. **Move** the extracted folder to: /username/
 3. **Edit your RooCode or CLine `.json` config file** in VSCode (usually in your workspace or extension settings):
 
 ```json
