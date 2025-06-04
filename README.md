@@ -50,8 +50,6 @@ This tool allows users to remotely control an x64dbg session, inspect memory, se
 📚 API Reference
 The following MCP commands are supported:
 
-Kopyala
-Düzenle
 is_debugging, start_debug_session, attach_to_process, detach_debugger, stop_debug_session,
 continue_execution, pause_execution, step_into, step_over, step_out, execute_command,
 read_memory, write_memory, get_memory_info, get_memory_map, memset_memory,
