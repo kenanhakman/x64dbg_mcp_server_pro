@@ -70,22 +70,3 @@ This tool allows users to remotely control an x64dbg session, inspect memory, se
     }
   }
 }
-
-
-```bash
-git clone https://github.com/YOUR_USERNAME/x64dbg_mcp_server_pro.git
-cd x64dbg_mcp_server_pro
-
-is_debugging, start_debug_session, attach_to_process, detach_debugger, stop_debug_session
-continue_execution, pause_execution, step_into, step_over, step_out, execute_command
-read_memory, write_memory, get_memory_info, get_memory_map, memset_memory
-read_word, read_dword, read_qword
-virtual_alloc, virtual_free, virtual_protect, virtual_query
-set_breakpoint, remove_breakpoint, toggle_breakpoint, list_breakpoints
-set_hardware_breakpoint, remove_hardware_breakpoint, set_memory_breakpoint, remove_memory_breakpoint
-get_registers, set_register, disassemble, assemble, get_symbol_at
-set_label, remove_label, get_label_at
-set_comment, remove_comment, get_comment_at
-hide_debugger, get_server_status, get_help
-
-You can download it from the release section.
