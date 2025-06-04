@@ -64,3 +64,5 @@ get_registers, set_register, disassemble, assemble, get_symbol_at
 set_label, remove_label, get_label_at
 set_comment, remove_comment, get_comment_at
 hide_debugger, get_server_status, get_help
+
+You can download it from the release section.
