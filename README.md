@@ -64,7 +64,7 @@ hide_debugger, get_server_status, get_help
 Use the get_help command for detailed info on each command and parameters.
 
 ### 1. Clone this repo
----
+https://github.com/kenanhakman/x64dbg_mcp_server_pro.git
 
 ## ⚙️ Configuration Instructions (VSCode + RooCode / CLine)
 
